@@ -10,3 +10,7 @@ echo 'hello world';
 echo '<br>';
 echo 'hay';
 echo 'adding some new echo';
+
+if(isset($a)){
+    echo $a;
+}
