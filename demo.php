@@ -11,6 +11,8 @@ echo '<br>';
 echo 'hay';
 echo 'adding some new echo';
 
+$a = 'i dont like it';
+
 if(isset($a)){
     echo $a;
 }
